@@ -1,2 +1,2 @@
 def context_social(request):
-    return {'social': 'Mensagens globais'}
+    return {"social": "Mensagens globais"}
